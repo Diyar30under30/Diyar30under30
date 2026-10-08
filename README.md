@@ -76,4 +76,4 @@ Telegram bot MVP matching people into friendships based on shared events and int
 
 ---
 
-When I was younger I wanted to get rich just so I could buy juice and chocolate for every kid in my neighborhood. These days that's turned into building tools that actually help people.
+I dont to be like the usual person, i want to change the world for the good side. To make the lifes of different level of people better
